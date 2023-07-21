@@ -1,5 +1,8 @@
-### Hi there 👋
+<h2 align="center">Hi 👋, I'm <a href="linkedin.com/in/jaganathms" target="_blank" rel="noopener">Jaganath M S</a></h2>
+<h3 align="center">Passionate Web Developer</h3>
 
+> <h4>👨‍💻 Check my portfolio : <a href="https://jaganath-portfolio.netlify.app" target="_blank" rel="noopener">Portfolio</a></h4>
+> <h4>📫 To Reach me in mail : <a href="mailto:jagan.msjc@gmail.com" target="_blank" rel="noopener">Mail</a></h4>
 <!--
 **Jaganath-MSJ/Jaganath-MSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
