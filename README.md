@@ -40,16 +40,13 @@
 
 <hr/>
 
-<div>
+<div style="display:flex; justify-content:center; gap:2rem; flex-wrap:wrap;">
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jaganath-MSJ&show_icons=true&theme=dark&locale=en" />
   <img height="195px" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaganath-MSJ&show_icons=true&theme=dark&locale=en&layout=compact" />
   <img alt="Other Details" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaganath-MSJ&theme=dark" />
 </div>
+
 <!--
-**Jaganath-MSJ/Jaganath-MSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
