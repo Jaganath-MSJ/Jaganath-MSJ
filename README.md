@@ -12,21 +12,18 @@
 ![React JS](https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
-![Java Script](https://img.shields.io/badge/Java_Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![Node JS](https://img.shields.io/badge/Node_JS-339933?style=for-the-badge&logo=node.js&logoColor=ffffff)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff)
 ![Appian](https://img.shields.io/badge/Appian-2322F0?style=for-the-badge&logo=appian&logoColor=ffffff)
-![My SQL](https://img.shields.io/badge/My_SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
-![Mongo DB](https://img.shields.io/badge/Mongo_DB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)
-![PHP My Admin](https://img.shields.io/badge/PHP_My_Admin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=ffffff)
 
 ### Languages:
 ![Java](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=ffffff)
 ![Java Script](https://img.shields.io/badge/Java_Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff)
+![Type Script](https://img.shields.io/badge/Type_Script-1976D2?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000)
 
 ### Database:
 ![My SQL](https://img.shields.io/badge/My_SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
