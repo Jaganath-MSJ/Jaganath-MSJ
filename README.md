@@ -38,9 +38,9 @@
 <hr/>
 
 <div style="display:flex; justify-content:center; gap:2rem; flex-wrap:wrap;">
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jaganath-MSJ&show_icons=true&theme=dark&locale=en" />
-  <img height="195px" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaganath-MSJ&show_icons=true&theme=dark&locale=en&layout=compact" />
   <img alt="Other Details" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaganath-MSJ&theme=dark" />
+  <img height="195px" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaganath-MSJ&show_icons=true&theme=dark&locale=en" />
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jaganath-MSJ&show_icons=true&theme=dark&locale=en&hide=contribs,issues" />
 </div>
 
 <!--
